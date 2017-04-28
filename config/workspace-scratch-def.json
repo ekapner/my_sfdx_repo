@@ -1,0 +1,10 @@
+{
+  "Company": "Acme",
+  "Country": "US",
+  "LastName": "ekapner",
+  "Email": "ekapner@salesforce.com",
+  "Edition": "Developer",
+  "OrgPreferences" : {
+    "S1DesktopEnabled" : true
+  }
+}
